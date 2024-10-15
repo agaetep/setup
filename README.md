@@ -1,2 +1,7 @@
 # setup
-My coding setup using neovim
+My coding setup
+
+Config files for:
+- Alacritty
+- neovim
+- tmux
